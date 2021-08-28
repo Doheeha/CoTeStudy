@@ -1,5 +1,3 @@
-package DP.PS;
-
 import java.io.*;
 import java.util.*;
 
